@@ -173,3 +173,26 @@ main h1{
         display: block;
     }
 }
+@media (max-width:330px){
+    .conta{
+        max-width: 250px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .teg h1{
+        font-size: 24px;
+    }
+    .boxing ul{
+        margin-left: 220px;
+        font-size: 15px;
+       
+    }
+    .boxing h3{
+        font-size: 65px;
+        margin-left: 150px;
+        margin-top: 23px;
+        color:  rgb(0, 0, 49);
+        display: block;
+    }
+}
