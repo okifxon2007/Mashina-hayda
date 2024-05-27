@@ -195,4 +195,7 @@ main h1{
         color:  rgb(0, 0, 49);
         display: block;
     }
+    main h1{
+        font-size: 19px;
+    }
 }
